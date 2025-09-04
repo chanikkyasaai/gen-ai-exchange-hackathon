@@ -1,0 +1,35 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Expo
+.expo/
+dist/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Android
+android/
+.gradle/
+build/
+app/build/
+captures/
+.idea/
+*.iml
+local.properties
+
+# iOS
+ios/
+build/
+Pods/
+*.xarchive
+*.xcworkspace/
+xcuserdata/
+
+# Others
+.DS_Store
+*.log
